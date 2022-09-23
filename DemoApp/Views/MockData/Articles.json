@@ -1,0 +1,91 @@
+{
+  "status": 1,
+  "targetid": "arttags",
+  "targetclass": "",
+  "currenttheme": "themeone",
+  "widgettitle": "You May Also Like",
+  "itemcount": 9,
+  "result": [
+    {
+      "article_old_id": "168427",
+      "article_title": "Janice de Belen hindi pinalampas ang pag-a-attitude ng young star na bida sa serye",
+      "article_url": "https://www.pep.ph/pepalerts/pep-troika/168427/janice-de-belen-young-star-attitude-a4118-20220913",
+      "article_image": "https://contents.pep.ph/images2/images2/2022/09/13/janice-1663077830.jpg",
+      "domain": "www.pep.ph",
+      "article_title_id": "janice-de-belen-young-star-attitude-a4118-20220913",
+      "article_section": "PEP Alerts"
+    },
+    {
+      "article_old_id": "168371",
+      "article_title": "Coleen Garcia \"so proud\" of husband Billy Crawford's standing ovation in France",
+      "article_url": "https://www.pep.ph/guide/tv/168371/coleen-garcia-billy-crawford-france-a5132-20220911",
+      "article_image": "https://contents.pep.ph/images2/images2/2022/09/11/billy-crawford-danse-avec-les-stars-1662864556.jpg",
+      "domain": "www.pep.ph",
+      "article_title_id": "coleen-garcia-billy-crawford-france-a5132-20220911",
+      "article_section": "Guide"
+    },
+    {
+      "article_old_id": "168438",
+      "article_title": "Rhian Ramos at Michelle Dee magsasama na sa isang bahay",
+      "article_url": "https://www.pep.ph/pepalerts/pep-troika/168438/rhian-ramos-michelle-dee-a4118-20220914",
+      "article_image": "https://contents.pep.ph/images2/images2/2022/09/14/rhian-michelle-1663123275.jpg",
+      "domain": "www.pep.ph",
+      "article_title_id": "rhian-ramos-michelle-dee-a4118-20220914",
+      "article_section": "PEP Alerts"
+    },
+    {
+      "article_old_id": "168379",
+      "article_title": "Agot Isidro claps back at basher after “funeraria look” comment",
+      "article_url": "https://www.pep.ph/news/local/168379/agot-isidro-funeraria-look-basher-a718-20220911",
+      "article_image": "https://contents.pep.ph/images2/images2/2022/09/11/agot-main-1662869389.jpg",
+      "domain": "www.pep.ph",
+      "article_title_id": "agot-isidro-funeraria-look-basher-a718-20220911",
+      "article_section": "News"
+    },
+    {
+      "article_old_id": "168400",
+      "article_title": "Competitive na aktres nabuntis ng lalakeng may asawa't anak",
+      "article_url": "https://www.pep.ph/pepalerts/cabinet-files/168400/blind-item-actress-pregnant-a734-20220912",
+      "article_image": "https://contents.pep.ph/images2/images2/2019/09/04/pep-blind-item-girl-1567585296.jpg",
+      "domain": "www.pep.ph",
+      "article_title_id": "blind-item-actress-pregnant-a734-20220912",
+      "article_section": "PEP Alerts"
+    },
+    {
+      "article_old_id": "168373",
+      "article_title": "Billy Crawford umani ng papuri sa unang salang niya sa Dancing With The Stars",
+      "article_url": "https://www.pep.ph/pepalerts/cabinet-files/168373/billy-crawford-dancing-with-the-stars-a734-20220910",
+      "article_image": "https://contents.pep.ph/images2/images2/2022/09/10/303590355-389303966737430-8148843792496652399-n-1662814964.jpg",
+      "domain": "www.pep.ph",
+      "article_title_id": "billy-crawford-dancing-with-the-stars-a734-20220910",
+      "article_section": "PEP Alerts"
+    },
+    {
+      "article_old_id": "168419",
+      "article_title": "Ruffa Gutierrez at Julia Barretto lilipat na rin sa ALLTV?",
+      "article_url": "https://www.pep.ph/pepalerts/cabinet-files/168419/ruffa-gutierrez-julia-barretto-alltv-a734-20220913",
+      "article_image": "https://contents.pep.ph/images2/images2/2022/09/13/ruffa-toni-mariel-julia-ella-1663062646.jpg",
+      "domain": "www.pep.ph",
+      "article_title_id": "ruffa-gutierrez-julia-barretto-alltv-a734-20220913",
+      "article_section": "PEP Alerts"
+    },
+    {
+      "article_old_id": "168391",
+      "article_title": "Matteo Guidicelli jokes about Gerald Anderson popularizing \"ghosting\"; Julia Barretto reacts",
+      "article_url": "https://www.pep.ph/news/local/168391/matteo-guidicelli-julia-barretto-ghosting-a716-20220912",
+      "article_image": "https://contents.pep.ph/images2/images2/2022/09/12/julia-mateo-1662959608.jpg",
+      "domain": "www.pep.ph",
+      "article_title_id": "matteo-guidicelli-julia-barretto-ghosting-a716-20220912",
+      "article_section": "News"
+    },
+    {
+      "article_old_id": "168422",
+      "article_title": "President Ferdinand Marcos Jr. answers issue about ABS-CBN franchise renewal",
+      "article_url": "https://www.pep.ph/news/local/168422/marcos-jr-abs-cbn-franchise-a734-20220913",
+      "article_image": "https://contents.pep.ph/images2/images2/2022/09/13/marcos-abs-cbn-1663067193.jpg",
+      "domain": "www.pep.ph",
+      "article_title_id": "marcos-jr-abs-cbn-franchise-a734-20220913",
+      "article_section": "News"
+    }
+  ]
+}
